@@ -115,7 +115,9 @@ User - {}"""
 ⭐ Rating: {rating} / 10</b>
 """
 
-    FILE_CAPTION = """<b>{FILE_CAPTION}\n\n𝖩𝗈𝗂𝗇➥ 「<a href="https://t.me/MRN_RIPPER">Mrn Backup Channel</a>」</b>"""
+   CAPTION = """<b>❤‍🔥𓊈𝖒𝖗𝖓_𝖗𝖎𝖕𝖕𝖊𝖗𓊉 : {file_name}</b>
+
+<b> Size ⚙️: {file_size}</b>"""
     
     ALRT_TXT = """ᴊᴀʟᴅɪ ʏᴇʜᴀ sᴇ ʜᴀᴛᴏ !"""
 
