@@ -38,7 +38,7 @@ LOG_VR_CHANNEL = int(environ.get('LOG_VR_CHANNEL', '-1002338765286'))
 auth_channel = environ.get('AUTH_CHANNEL', '-1001970263676')
 SUPPORT_GROUP = int(environ.get('SUPPORT_GROUP', '-1001837163489'))
 request_channel = environ.get('REQUEST_CHANNEL', '-1002111679640')
-MOVIE_UPDATE_CHANNEL = int(environ.get('MOVIE_UPDATE_CHANNEL', '-1002338765286'))
+MOVIE_UPDATE_CHANNEL = int(environ.get('MOVIE_UPDATE_CHANNEL', '-1002275478487'))
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/MRN_CONTACT_BOT') #Support group link ( make sure bot is admin )
 #---------------------------------------------------------------
 #---------------------------------------------------------------
@@ -68,7 +68,7 @@ REQUEST_CHANNEL = int(request_channel) if request_channel and id_pattern.search(
 #---------------------------------------------------------------
 #---------------------------------------------------------------
 #---------------------------------------------------------------
-START_IMG = (environ.get('START_IMG', 'https://i.ibb.co/h9GBt42/file-6320.jpg https://graph.org/file/1c9861f4bff950b2ccb6b-4a686c9d9244369aeb.jpg')).split()
+START_IMG = (environ.get('START_IMG', 'https://graph.org/file/784c2dbbbcc0a5b8f8481-bedb60c5a57f254efc.jpg https://graph.org/file/6342f9ae8571659b764d2-adb46a36274462e7f5.jpg https://graph.org/file/58588618cd2547af98235-c024050c84364be078.jpg https://graph.org/file/413bdcc12fffa83f2e44f-d55d528ec54053892f.jpg https://graph.org/file/4bb4161b9b29ca7a9a68b-09129a323354e7ca94.jpg https://graph.org/file/afb26904467e6d288066d-e47db06938c1b2426d.jpg  https://graph.org/file/1c9861f4bff950b2ccb6b-4a686c9d9244369aeb.jpg')).split()
 FORCESUB_IMG = environ.get('FORCESUB_IMG', 'https://i.ibb.co/ZNC1Hnb/ad3f2c88a8f2.jpg')
 REFER_PICS = (environ.get("REFER_PICS", "https://envs.sh/PSI.jpg")).split() 
 PAYPICS = (environ.get('PAYPICS', 'https://graph.org/file/fc36407b933650b3fe677-b4faaa1caae7741709.jpg')).split()
