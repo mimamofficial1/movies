@@ -255,11 +255,33 @@ User - {}"""
 ➛ ᴜꜱᴇ /plan ᴛᴏ ꜱᴇᴇ ᴀʟʟ ᴏᴜʀ ᴘʟᴀɴꜱ ᴀᴛ ᴏɴᴄᴇ.
 ➛ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ ʙʏ ᴜꜱɪɴɢ : /myplan</b>"""
 
-    FREE_TXT = """<b>👋 ʜᴇʏ {}
+    FREE_TXT = """<b>👋💰💳𝐇𝐞𝐲 𝐏𝐫𝐞𝐦𝐢𝐮𝐦 𝐏𝐥𝐚𝐧𝐬 💲.{}
     
-<blockquote>🎖️ᴀᴠᴀɪʟᴀʙʟᴇ ᴘʀᴇᴍɪᴜᴍ ᴘʟᴀɴꜱ :</blockquote>
+<blockquote>🎖️ᴀᴠᴀɪʟᴀʙʟᴇ ᴘʀᴇᴍɪᴜᴍ ᴘʟᴀɴꜱ :</blockquote>  
 
- <code>××××</code> [ᴛᴀᴘ ᴛᴏ ᴄᴏᴘʏ]
+- ✅New Plans For TV Shows Premium Channel😍
+
+[MRN Premium Tv, 🎞All Indian Hindi TV Shows ]
+- ━━━━━━━━━━━━━━━━━━━━
+
+⚡️>>> Rs. 050     ➠    𝟶𝟷 ᴡᴇᴇᴋꜱ
+⚡️>>> Rs. 100     ➠    𝟶𝟷 ᴍᴏɴᴛʜ
+⚡️>>> Rs. 200     ➠    𝟶𝟸 ᴍᴏɴᴛʜ
+⚡️>>> Rs. 300     ➠    𝟶𝟹 ᴍᴏɴᴛʜ
+⚡️>>> Rs. 500     ➠    𝟶𝟼 ᴍᴏɴᴛʜ
+⚡️>>> Rs. 1000    ➠    𝟷𝟸 ᴍᴏɴᴛʜ
+
+✨ᴜᴘɪ ɪᴅ ➢ md-muzaffar-imam@axl [ᴛᴀᴘ ᴛᴏ ᴄᴏᴘʏ]
+
+🚨These Prices Are Now Permanent Plans.
+
+✅1-Day Demo/Trial Also Available Here.
+
+OTT: Hotstar, ZEE5, JioCinema, SONYLIV, DangalPlay,\ShemarooMe, EpicOn Etc. all OTT Movies and Webseries available
+
+⚡️Grab It Fast ASAP😘 [💯Trusted]
+
+👨‍💻Contact Us @mimam_officialx
  
 ⛽️ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ: /myplan
 
@@ -284,10 +306,10 @@ User - {}"""
 --------------Verify ID--------------
 ➩ /verify_id - Generate a verification ID for group use only
 --------------Set Ads----------------
-➩ /set_ads {ads name}}#{Times}#{photo URL} - <a href="https://t.me/Jisshu_developer/11">Explain</a>
+➩ /set_ads {ads name}}#{Times}#{photo URL} - <a href="https://t.me/MRN_RIPPER">Explain</a>
 ➩ /del_ads - Delete ads
 -------------Top Trending------------
-➩ /setlist {Mirzapur, Money Heist} - <a href=https://t.me/Jisshu_developer/10>Explain</a>
+➩ /setlist {Mirzapur, Money Heist} - <a href=https://t.me/MRN_RIPPER>Explain</a>
 ➩ /clearlist - Clear all lists
 </blockquote></b>"""
 
@@ -316,12 +338,12 @@ User - {}"""
 /set_time_2 {{seconds}} Sᴇᴛ ᴛʜᴇ sᴇᴄᴏɴᴅ ᴠᴇʀɪғɪᴄᴀᴛɪᴏɴ ᴛɪᴍᴇ
 /set_time_3 {{seconds}} Sᴇᴛ ᴛʜᴇ ᴛʜɪʀᴅ ᴠᴇʀɪғɪᴄᴀᴛɪᴏɴ ᴛɪᴍᴇ
 --------------Verify On Off------------
-/verifyoff {{verify.off code}} - off verification <a href="https://t.me/IM_JISSHU">Cᴏɴᴛᴀᴄᴛ</a> ᴛʜᴇ ʙᴏᴛ ᴀᴅᴍɪɴ ғᴏʀ ᴀ ᴠᴇʀɪғʏ.ᴏғғ ᴄᴏᴅᴇ
+/verifyoff {{verify.off code}} - off verification <a href="https://t.me/mimam_officialx">Cᴏɴᴛᴀᴄᴛ</a> ᴛʜᴇ ʙᴏᴛ ᴀᴅᴍɪɴ ғᴏʀ ᴀ ᴠᴇʀɪғʏ.ᴏғғ ᴄᴏᴅᴇ
 /verifyon - on verification 
 ------------Set File Caption-----------
 /set_caption - set coustom file caption 
 -----------Set Imdb Template-----------
-/set_template - set IMDb template <a href="https://t.me/Jisshu_developer/8">Example</a>
+/set_template - set IMDb template <a href="https://t.me/MRN_RIPPER">Example</a>
 --------------Set Tutorial-------------
 /set_tutorial - set verification tutorial 
 -------------Set Log Channel-----------
@@ -336,7 +358,7 @@ Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴍᴀᴋᴇ ᴍᴇ ᴀ�
 
     SOURCE_TXT = """<b>
 NOTE:
-- Create Your Bot ◉› :<blockquote><a href="https://youtu.be/mWCsVUOKuoI?si=7qVkoBfDxMCXt-ms">𝗝𝗶𝘀𝘀𝗵𝘂-𝗙𝗶𝗹𝘁𝗲𝗿-𝗕𝗼𝘁</a></blockquote>
+- Create Your Bot ◉› :<blockquote><a href="https://youtube.com/@mimam_official?si=4p-B5V0IlOmPqS9W"-𝗙𝗶𝗹𝘁𝗲𝗿-𝗕𝗼𝘁</a></blockquote>
 
 developer : Mr.Jisshu
 </b>""" 
