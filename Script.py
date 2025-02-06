@@ -115,9 +115,7 @@ User - {}"""
 ⭐ Rating: {rating} / 10</b>
 """
 
-   CAPTION = """<b>❤‍🔥𓊈𝖒𝖗𝖓_𝖗𝖎𝖕𝖕𝖊𝖗𓊉 : {file_caption}</b>
-
-<b> Size ⚙️: {file_size}</b>"""
+   CAPTION = """<b>{file_caption}</b>"""
     
     ALRT_TXT = """ᴊᴀʟᴅɪ ʏᴇʜᴀ sᴇ ʜᴀᴛᴏ !"""
 
