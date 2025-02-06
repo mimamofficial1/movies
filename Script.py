@@ -115,7 +115,7 @@ User - {}"""
 ⭐ Rating: {rating} / 10</b>
 """
 
-    CAPTION = """<b>{file_caption}\n\n𝖩𝗈𝗂𝗇➥ 「<a href="https://t.me/MRN_RIPPER">UPDATE CHANNEL</a>」</b>"""
+    CAPTION = """<b>{file_caption}</b>"""
     
 
     ALRT_TXT = """ᴊᴀʟᴅɪ ʏᴇʜᴀ sᴇ ʜᴀᴛᴏ !"""
