@@ -1122,8 +1122,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
             await query.answer(script.ALRT_TXT, show_alert=True)
             return
         if status == "True":
-            await save_group_settings(int(grp_id), set_type, True)
-            await query.answer("ᴏn ✅")
+            await save_group_settings(int(grp_id), set_type, False)
+            await query.answer("ᴏff ❌")
         else:
             await save_group_settings(int(grp_id), set_type, True)
             await query.answer("ᴏɴ ✅")
