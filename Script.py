@@ -360,7 +360,7 @@ Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴍᴀᴋᴇ ᴍᴇ ᴀ�
 NOTE:
 - Create Your Bot ◉› :<blockquote><a href="https://youtube.com/@mimam_official?si=4p-B5V0IlOmPqS9W">Latest_Tv_Show_Bot</a></blockquote>
 
-developer : Mr.Jisshu
+developer : @mimam_officialx
 </b>""" 
     GROUP_C_TEXT = """<b><blockquote>
  --------------Set Verify-------------
